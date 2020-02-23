@@ -9,7 +9,7 @@
 	<name>beauty_ssm Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>4.3.7.RELEASE</spring.version>
+		<spring.version>5.2.3.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<mybatis.version>3.4.2</mybatis.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
